@@ -32,7 +32,7 @@ If you failed still，please DM me on Twitter：https://twitter.com/michaelwong6
 
 ## Data backup
 
-ThinkNote use SQLite to pesistent data. The db directory locate in: 
+ThinkNote use SQLite to pesistent data. The db directory locates in: 
 
 ~/Library/Containers/org.huangqian.ThinkNote/Data/Applications/thinknote.sqlite3
 
